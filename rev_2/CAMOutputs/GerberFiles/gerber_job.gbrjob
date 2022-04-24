@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-08-13T01:21:34Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.671119,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "spot_check_rev_2"
+        },
+        "Owner": "Brian Team <brian.team.jr@gmail.com>",
+        "Size": {
+            "X": 61.9,
+            "Y": 32
+        }
+    }
+}

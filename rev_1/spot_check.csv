@@ -1,0 +1,20 @@
+Qty,Value,Device,Package,Parts,Description,Digikey link,MF,MPN,OC_FARNELL,OC_NEWARK
+6,,36-5007-ND,"2,54/0,8","TP1(D3), TP2(D4), TP3(5V), TP4(3V3), TP5(ESP), TP5(GND), TP6(GND)",THROUGH-HOLE PAD,https://www.digikey.com/product-detail/en/keystone-electronics/5007/36-5007-ND/255331,,,,
+1,,JACK-PLUG1,54-00167,J1,DC POWER JACK,https://www.digikey.com/product-detail/en/tensility-international-corp/54-00167/839-54-00167-ND/10459295,,,unknown,unknown
+1,,PINHD-1X3/90,PRPC032SAAN-RC,JP1,PIN HEADER,https://www.digikey.com/products/en?keywords=PRPC032SAAN-RC,,,,
+1,,PINHD-2X3,PRPC003DAAN-RC,JP2,PIN HEADER,https://www.digikey.com/products/en?keywords=PRPC003DAAN-RC,,,,
+2,.33uF,C-US050-024X044,FG28X7R1H334KRT06,"C3, C4","CAPACITOR, American symbol",https://www.digikey.com/product-detail/en/tdk-corporation/FG28X7R1H334KRT06/445-173597-1-ND/5812202,,,,
+3,0.1uF,C-US050-024X044,C050-024X044,"C1, C5, C9","CAPACITOR, American symbol",x,,,,
+3,1.2K,R-US_0207/10,0207/10,"R4, R5","RESISTOR, American symbol",x,,,,
+3,10K,R-US_0207/10,0207/10,"R1, R3, R6","RESISTOR, American symbol",x,,,,
+1,16MHz,CRYSTALHC49S,FC4STCBMF16.0-BAG200,Q1,CRYSTAL,https://www.digikey.com/products/en?keywords=FC4STCBMF16.0-BAG200,,,1667008,unknown
+1,1N4001,1N4001,DO41-10,D1,DIODE,x,,,,
+2,22pF,C-US050-024X044,FG28C0G1H220JNT06,"C7, C8","CAPACITOR, American symbol",https://www.digikey.com/product-detail/en/tdk-corporation/FG28C0G1H220JNT06/445-173485-1-ND/5812090,,,,
+4,BTN,10-XX,B3F-1000,"AT_RESET, ESP_FLASH, ESP_RST",OMRON SWITCH,https://www.digikey.com/products/en?keywords=B3F-1000,,B3F-1000,176432,36M3542
+1,ESP8266-01,ESP8266_ESP-01,ESP8266_ESP-01_NO-SILKSCREEN,A1,,x,,,,
+1,GRN,LED5MM,LED5MM,LED2,LED,,,,,
+1,JST-XH-03-PIN-ROUND-PAD,JST-XH-03-PIN-ROUND-PAD,B3B-XH-A(LF)(SN),"LED_STRIP, LED_STRIP1",JST XH Connector 2 Pin,https://www.digikey.com/product-detail/en/jst-sales-america-inc/B3B-XH-A-LF-SN/455-2248-ND/1651046,,,,
+1,MEGA8-P,MEGA8-P,DIL28-3,IC4,MICROCONTROLLER,x,,,unknown,unknown
+1,RED,LED5MM,LED5MM,LED1,LED,x,,,,
+1,UA78M05CKCS,UA78M05CKCS,TO-220-3,VR2,,https://www.digikey.com/product-detail/en/texas-instruments/UA78M05CKCS/296-14000-5-ND/521616,,,,
+1,UA78M33CKCS,UA78M33CKCS,TO-220-3,VR1,,https://www.digikey.com/product-detail/en/texas-instruments/UA78M33CKCS/296-21633-5-ND/1494026,,,,
